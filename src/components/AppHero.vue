@@ -11,4 +11,16 @@ export default {
 </template>
 
 <style>
+    p{
+        color : red;
+        text-align: center;
+        padding: 20px;
+        cursor: pointer;
+    }
+
+    p:hover{
+        text-decoration: underline;
+        color : purple
+        
+    }
 </style>
